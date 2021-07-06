@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">VKInfo</string>
     <string name="id">Введите ID в ВКонтакте</string>
-    <string name="search">Search!</string>
+    <string name="search">Go!</string>
     <string name="find_person">Find person</string>
+    <string name="error_message">Error was occurred, try again </string>
 </resources>
